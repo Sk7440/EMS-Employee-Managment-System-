@@ -1,8 +1,8 @@
 import React from 'react'
-import AcceptTask from './TaskListCards/AcceptTask'
-import Inprogress from './TaskListCards/Inprogress'
-import CompleteTAsk from './TaskListCards/CompleteTAsk'
-import NewTask from './TaskListCards/NewTask'
+import AcceptTask from './TaskList box/AcceptTask'
+import Inprogress from './TaskList box/Inprogress'
+import CompleteTAsk from './TaskList box/CompleteTAsk'
+import NewTask from './TaskList box/NewTask'
 
 function OverviewStat({ data }) {
   return (
