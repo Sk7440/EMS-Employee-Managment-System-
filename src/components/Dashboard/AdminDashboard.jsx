@@ -1,7 +1,7 @@
-import React, { useContext } from 'react'
-import AdminNavbar from '../Admin Dashboard Components/AdminNavbar'
-import Header from '../Admin Dashboard Components/Header'
-import CreateTaskform from '../Admin Dashboard Components/CreateTaskform'
+import React from 'react'
+import Header from '../AdminDashboardComponents/Header'
+import AdminNavbar from '../AdminDashboardComponents/AdminNavbar'
+import CreateTaskform from '../AdminDashboardComponents/CreateTaskform'
 import { AuthContext } from '../../context/AuthProvider'
 
 const AdminDashboard = () => {

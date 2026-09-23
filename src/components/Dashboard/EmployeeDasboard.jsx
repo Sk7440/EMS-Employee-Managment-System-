@@ -1,8 +1,8 @@
 import React from 'react'
-import { Navbar } from '../Employeedashboard Components/Navbar'
-import TaskList from '../Employeedashboard Components/TaskList'
-import Welcmbanner from '../Employeedashboard Components/Welcmbanner'
-import OverviewStat from '../Employeedashboard Components/OverviewStat'
+import { Navbar } from '../EmployeeDashboardComponents/Navbar'
+import TaskList from '../EmployeeDashboardComponents/TaskList'
+import Welcmbanner from '../EmployeeDashboardComponents/Welcmbanner'
+import OverviewStat from '../EmployeeDashboardComponents/OverviewStat'
 
 const EmployeeDashboard = ({ data }) => {
   return (
